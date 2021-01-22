@@ -1,5 +1,5 @@
 
-
+// Github_Link:https://github.com/mdazim14/Assignment-3
 
 
 // problem solving no-1 ************start************
@@ -8,7 +8,6 @@ function kilometerToMeter(kilometer) {
     var meter = kilometer * 1000;
     return meter;
 }
-
 
 
 // problem solving no-2 ************start************
@@ -20,8 +19,6 @@ function budgetCalculator( wacth, phone, laptop ) {
    var laptopPrice = laptop*500;
    return totalPrice = watchPrice + phonePrice + laptopPrice;
 }
-
-
 
 
 // problem solving no-3 ************start************
@@ -46,9 +43,6 @@ else{
 }
 return amount;
 }
-
-
-
 
 
 // problem solving no-4 ************start************
